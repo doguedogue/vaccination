@@ -2,7 +2,7 @@
 
 ### Práctica CSS - Clonar con CSS
 
-[Page (https://doguedogue.github.io/vaccination/)](https://doguedogue.github.io/vaccination/)
+[https://rafaelvilches.codes/vaccination/](https://rafaelvilches.codes/vaccination/)
 
 #### Campaña Publicitaria
 
