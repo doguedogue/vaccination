@@ -2,7 +2,7 @@
 
 ### Práctica CSS - Clonar con CSS
 
-[https://rafaelvilches.codes/vaccination/](https://rafaelvilches.codes/vaccination/)
+[https://www.rafaelvilches.codes/vaccination/](https://www.rafaelvilches.codes/vaccination/)
 
 #### Campaña Publicitaria
 
